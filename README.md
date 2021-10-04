@@ -1,4 +1,4 @@
-# XOrm persistance with One to One relationship
+# XOrm persistance with One to Many relationship
 One to Many relationship using XOrm library
 
 ### Features
